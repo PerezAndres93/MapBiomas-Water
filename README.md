@@ -1,8 +1,9 @@
 This repository contains the scripts with which the first complete collection of MapBiomas Água for Guyana, Suriname, and French Guiana was created, with water surface mapping for the Amazonian countries from 1985 to 2022, with annual and monthly data included for the entire period:
 
-(i) water surface area in the year and accumulated in a period;
-(ii) annual frequency of occurrence;
+(i) water surface area in the year and accumulated in a period
+(ii) annual frequency of occurrence
 (iii) annual transitions of gain and loss.
+
 The description of the water surface mapping method is available in the methodologies section of the MapBiomas Amazonia website.
 Annual water surface maps and statistical tables are available in the download area of the MapBiomas Amazonia website.
 For suggestions, criticisms and ideas to improve the work, please contact us by email: contato@mapbiomas.orgoto access the MapBiomas Amazonia Forum.
