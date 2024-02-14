@@ -1,4 +1,4 @@
-This repository contains the scripts with which the first complete collection of MapBiomas Água for Guyana, Suriname, and French Guiana was created, with water surface mapping for the Amazonian countries from 1985 to 2022, with annual and monthly data included for the entire period:
+This repository store the scripts with which the first complete collection of MapBiomas Água for Guyana, Suriname, and French Guiana. it was created with water surface mapping for the Amazonian countries from 1985 to 2022, with annual and monthly data included for the entire period:
 
 (i) water surface area in the year and accumulated in a period
 (ii) annual frequency of occurrence
